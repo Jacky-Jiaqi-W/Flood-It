@@ -11,5 +11,4 @@ test their strategic thinking and problem-solving skills.
 - Press "r" to reset the game
 
 ## Example
-![image](<img width="562" alt="Screenshot 2023-10-16 at 12 45 15 AM" src="https://github.com/Jacky-Jiaqi-W/Flood-It/assets/122419958/83697f0c-f754-473a-8171-cfcc282ec50c">
-)
+<img width="562" alt="Screenshot 2023-10-16 at 12 45 15 AM" src="https://github.com/Jacky-Jiaqi-W/Flood-It/assets/122419958/83697f0c-f754-473a-8171-cfcc282ec50c">
